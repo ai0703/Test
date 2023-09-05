@@ -1,0 +1,13 @@
+streamlit
+chroma
+langchain
+torch
+transformers
+pytesseract
+pdf2image
+opencv-python-headless
+pyPdf
+sentence_transformers
+chromadb
+openai
+
